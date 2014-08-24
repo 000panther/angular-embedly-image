@@ -1,0 +1,20 @@
+{
+  "name": "angular-embedly-image",
+  "main": "angular-embedly-image.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/hobbysoldat/angular-embedly-image",
+  "authors": [
+    "Paul Weber <paul@iwa-tech.com>"
+  ],
+  "description": "Angular directives and services to use the embed.ly display service for resizing images.",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "angular",
+    "embedly",
+    "image",
+    "display"
+  ],
+  "license": "MIT"
+}
